@@ -1,0 +1,21 @@
+# Binaries
+rate-limiter
+*.exe
+
+# Build output
+/dist
+
+# Go
+vendor/
+*.test
+*.out
+coverage.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
